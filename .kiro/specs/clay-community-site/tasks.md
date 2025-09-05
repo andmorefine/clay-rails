@@ -1,6 +1,6 @@
 # 実装計画
 
-- [ ] 1. プロジェクト基盤とDocker環境のセットアップ
+- [x] 1. プロジェクト基盤とDocker環境のセットアップ
   - PostgreSQLとRedis設定を含むRailsアプリケーションの作成
   - 開発環境用のDockerとDocker Composeファイルのセットアップ
   - 必要なgem（devise、image_processing、sidekiqなど）でGemfileを設定
